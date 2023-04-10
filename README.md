@@ -1,6 +1,7 @@
 ### Hi there 👋, This is Aryan Parajuli. 
-- A Laravel Developer. 
-- Learning to write clean code everyday ![CapDoctorGIF](https://user-images.githubusercontent.com/67747517/230855462-1dba8351-6860-451f-9e5b-6ad797048c1e.gif)
+- A Laravel Developer. 👨‍💻
+- Learning to write clean code everyday. 🧢
+- I try to believe I'm technically sound, but you be the judge of that. 🤭
 
 <!--
 **parajuliaryan/parajuliaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
