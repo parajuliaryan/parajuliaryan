@@ -1,4 +1,4 @@
-### Hello there 👋, This is Aryan Parajuli. Nice to meet you. 😉
+### Hello there 👋, this is Aryan Parajuli. Nice to meet you. 😉
 - I'm a Laravel Developer. 👨‍💻
 - Learning to write clean code everyday. 🧢
 - I try to believe I'm technically sound, but you be the judge of that. 🤭
