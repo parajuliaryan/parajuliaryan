@@ -1,10 +1,9 @@
 ### Hello there 👋, this is Aryan Parajuli. Nice to meet you. 😉
-- A Web Developer. 👨‍💻
+- A Software Developer. 👨‍💻
 - Learning to write clean code everyday. 🧢
 - I try to believe I'm technically sound, but you be the judge of that. 🤭
-- A wannabe Full Stack Developer but DAMN ITS TOUGHH!!!! ☹️
 
-![KrackpinkTypingGIF](https://user-images.githubusercontent.com/67747517/231080146-46977c1c-78e4-4631-9299-8c01a4f45cab.gif)
+![WorkInternetGIF](https://github.com/user-attachments/assets/be850697-7897-4457-8549-4879b51b296d)
 
 <!--
 **parajuliaryan/parajuliaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
