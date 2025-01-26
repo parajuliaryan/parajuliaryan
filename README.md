@@ -3,7 +3,8 @@
 - Learning to write clean code everyday. 🧢
 - I try to believe I'm technically sound, but you be the judge of that. 🤭
 
-![WorkInternetGIF](https://github.com/user-attachments/assets/be850697-7897-4457-8549-4879b51b296d)
+![WhenTheCodingCodingGIF](https://github.com/user-attachments/assets/508343eb-6b72-493d-bab5-fad05ecb625e)
+
 
 <!--
 **parajuliaryan/parajuliaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
