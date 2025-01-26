@@ -3,7 +3,6 @@
 - Learning to write clean code everyday. 🧢
 - I try to believe I'm technically sound, but you be the judge of that. 🤭
 
-![GokuDragonBallZGIF](https://github.com/user-attachments/assets/2fca80db-23fc-4f3a-b7c3-5723ca0e3192)
 <!--
 **parajuliaryan/parajuliaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
