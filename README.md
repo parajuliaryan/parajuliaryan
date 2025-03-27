@@ -8,27 +8,10 @@
 
 ## 🏆 Skills  
 
-### **Programming Languages**  
-- 🐍 **Python**  
-- ☕ **Java**  
-- 🔵 **JavaScript**  
-- 🐘 **PHP**  
-- 💻 **C#**  
-
-### **Technologies & Frameworks**  
-- 🚀 **Laravel**  
-- 🎨 **Vue.js**  
-- ⚡ **ASP.NET**  
-
-### **Databases**  
-- 🗄️ **MySQL**  
-- 🏠 **SQLite**  
-- 🍃 **MongoDB**  
-- 🐘 **PostgreSQL**  
-
-### **Other Skills**  
-- 📄 **LaTeX Document Writing**
-- 📊 **Data Science & Visualization** 
-- 🔍 **Computer Vision & Machine Learning** 
-- 🖥️ **Linux & Bash Scripting**    
- 
+| **Programming Languages** | **Technologies & Frameworks** | **Databases** | **Other Skills** |
+|---------------------------|-------------------------------|---------------|------------------|
+| 🐍 **Python**              | 🚀 **Laravel**                | 🗄️ **MySQL**  | 📄 **LaTeX Document Writing** |
+| ☕ **Java**                | 🎨 **Vue.js**                 | 🏠 **SQLite**  | 📊 **Data Science & Visualization** |
+| 🔵 **JavaScript**         | ⚡ **ASP.NET**                 | 🍃 **MongoDB** | 🔍 **Computer Vision & Machine Learning** |
+| 🐘 **PHP**                |                               | 🐘 **PostgreSQL** | 🖥️ **Linux & Bash Scripting** |
+| 💻 **C#**                 |                               |               |                  |
